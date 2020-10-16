@@ -2,7 +2,7 @@
 layout: post
 title: How to Think Like a Hacker!
 date: 2020-10-07 18:53:34 +0800
-categories: technology security
+categories: security
 ---
 
 ![Header Image](/assets/post1/header_image.png)

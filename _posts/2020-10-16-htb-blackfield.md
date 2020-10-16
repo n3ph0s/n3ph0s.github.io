@@ -2,7 +2,7 @@
 layout: post
 title: HTB Blackfield Walkthrough
 date: 2020-10-16 14:24:24 +0800
-categories: technology security htb walkthrough
+categories: htb
 ---
 
 ![HTB Image](/assets/post3/htb_image.png)

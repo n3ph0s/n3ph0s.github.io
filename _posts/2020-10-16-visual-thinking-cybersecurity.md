@@ -2,7 +2,7 @@
 layout: post
 title: Visual Thinking for Cybersecurity
 date: 2020-10-16 12:00:41 +0800
-categories: technology security
+categories: security
 ---
 ![Title Image](/assets/post2/head.png)
 
